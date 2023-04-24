@@ -1,3 +1,16 @@
+
+# Ignore files without extension
+.*
+main
+# Ignore temporary and cache files
 *.i
 *.o
 *.s
+*.swp
+*.swo
+*.bak
+*.cache
+*.log
+*.out
+# except C source files
+!*.c
