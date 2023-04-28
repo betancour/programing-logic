@@ -45,8 +45,6 @@ Check out Professor Saulo Channel at: [YouTube](https://www.youtube.com/playlist
 This code includes a main.c blue print;
 
 ```c
-
-#if 0
 /*
 *THIS IS A FILE THAT BELONGS TO THE LIST OF EXERCISES
 *FOR LEARNING C LANGUAGE ON THE COURSE PROGRAMMING LOGIC MANAGED BY PROFESSOR SAULO SANTOS.
@@ -58,7 +56,6 @@ This code includes a main.c blue print;
 *DUE DATE: MAY 7, 2023
 
 */
-#endif
 
 #include <stdio.h>
 #include <locale.h>

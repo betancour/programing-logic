@@ -1,5 +1,8 @@
 ## Complete List of Data Types in C Programming Language
-##          Formating Code 
+<div style="text-align: right; padding-right: 10em;">
+  <h2>Formating Code</h2>
+</div>
+
 
 |Type                   |Size        |Lower Limit               |Upper Limit                | Number  | Character | Characters | Octal   | Hexadecimal| Scientific Notation|
 | --------              | --------   | --------                 | --------                  | ------  | --------- | ---------- | ------  | ---------- | ------------------ |
